@@ -6,6 +6,7 @@ Currently the versioning policy of this project follows [Semantic Versioning v2.
 
 ## Unreleased - 2018-??-??
 * Start migrating STDOUT/STDERR usage to a logging framework
+* Detect method parameter type annotations ([#743](https://github.com/spotbugs/spotbugs/issues/592))
 
 ## 3.1.9 - 2018-11-20
 
